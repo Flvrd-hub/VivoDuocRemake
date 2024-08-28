@@ -1,0 +1,37 @@
+:root{
+    --ion-background-color-rgb: 255,255,255;
+  }
+
+ion-content.recuperarcontrafondo{
+    --ion-background-color: #fac2ee;
+  }
+ion-header.recuperarcontraheader{
+    --ion-background-color: #c529a3;
+  }
+
+ion-card {
+    --background: #f381c7;
+    --color: #9efff0;
+  }
+  
+  ion-card-title {
+    --color: #ffffff;
+  }
+  
+  ion-card-subtitle {
+    --color: #d1fff8;
+  }
+
+.ion-text-center{
+    text-align: center
+}
+
+.ion-button {
+    padding-top: 1rem;
+
+    --background: #f02153;
+    --background-hover: #9ce0be;
+    --background-activated: #88f4be;
+    --background-focused: #88f4be;
+    
+}

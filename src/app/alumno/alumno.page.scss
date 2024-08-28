@@ -1,0 +1,42 @@
+:root{
+    --ion-background-color-rgb: 255,255,255;
+    .color1 {color: #08d6ff;}
+    .color2 {color: #8fb5fb;}
+    .color3 {color: #ffb1f4;}
+    .color4 {color: #ffdaf3;}
+    .color5 {color: #fffad8;}
+  }
+
+ion-content.alumnofondo{
+    --ion-background-color: #fac2ee;
+  }
+ion-header.alumnoheader{
+    --ion-background-color: #C2FACE;
+  }
+
+ion-card {
+    --background: #f381c7;
+    --color: #9efff0;
+  }
+
+.ion-button {
+    padding-top: 1rem;
+
+    --background: #f02153;
+    --background-hover: #9ce0be;
+    --background-activated: #88f4be;
+    --background-focused: #88f4be;
+    
+    
+    
+}
+
+.ion-button .camicon{
+    padding-left: 1rem;
+    height: 2.5rem;
+    
+}
+
+.footeralumno{
+    --background: #ff8cbd;
+}
